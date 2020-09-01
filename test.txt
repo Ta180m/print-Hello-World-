@@ -8,7 +8,7 @@ define gcd(a, b)
 
 print "test"
 
-N = 1000
+constant N = 1000
 A = []
 for i from 0 to N - 1
     A[i] = i
