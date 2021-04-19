@@ -9,7 +9,7 @@ fn gcd(a : i32, b : i32) -> i32 {
 }
 
 fn main() {
-    println!("Hello World");
+    println!("test");
     
     const N: i32 = 1000;
     let mut A: [i32; N as usize] = [0; N as usize];
