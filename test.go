@@ -10,7 +10,7 @@ func gcd(a, b int) int {
 }
 
 func main() {
-    fmt.Println("Hello World")
+    fmt.Println("test")
     
     const N int = 1000
     var A [N]int
