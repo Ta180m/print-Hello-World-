@@ -1,3 +1,5 @@
+// Rust
+
 fn gcd(a : i32, b : i32) -> i32 {
     if b > 0 {
         return gcd(b, a % b);
